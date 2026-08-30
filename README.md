@@ -1,7 +1,5 @@
 # Varshitha Gundluru
 
-AI Developer Candidate · Python · SQL · Data Analytics
-
 ## Featured case study: Travel Reimbursement Approval Agent
 
 This repository contains a self-contained prototype for evaluating employee travel reimbursement claims against policy, receipt requirements, spending limits, and approval thresholds.
